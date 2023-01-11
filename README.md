@@ -25,5 +25,6 @@ Include your code here
 
 Include the screenshot of your admin page.
 
+![Screenshot (15)](https://user-images.githubusercontent.com/119475603/211843321-0f5c3904-7b36-4e69-aa12-cf701fd36b8e.png)
 
 ## RESULT
